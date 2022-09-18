@@ -27,7 +27,7 @@ For information about creating a feed file using an XML document, see [Creating 
 
 Because Microsoft attempts to match properties in your hotel feed to businesses in Bing Maps, it is important that the data you provide about the hotel is accurate and complete.
 
-If your hotel has missing or incorrect information, Microsoft may not be able to match it. If Microsoft cannot match the hotel, Microsoft will not advertise it. After your TAM imports your hotel feed file, they'll send you a report that indicates which hotels Microsoft matched or didn't match. If Microsoft didn't match the hotel, the report includes the message, *Unable to match this hotel to a property in Bing*. For help improving your match rate, work with your TAM.
+If your hotel has missing or incorrect information, Microsoft may not be able to match it. If Microsoft cannot match the hotel, Microsoft will not advertise it. After you upload your hotel feed file, you will be able to view the results of matching in the same user interface. If Microsoft didn't match the hotel, the report includes the message, *Unable to match this hotel to a property in Bing*. For help improving your match rate, reach out directly to the Microsoft representative you were working with.
 
 
 
@@ -90,9 +90,9 @@ If you remove a hotel and add it back in a later feed with the same property val
 
 ## Next steps
 
-Ask your account manager to import the feed file.
+Upload your hotel feed in the Bing Hotel Center Interface.
 
-Be sure to also import your points of sale data. For information about creating your points of sale feed file, see [Points of Sale Feed](../pos-feed/pos-feed.md).
+Be sure to also send your point of sale feed file to your Microsoft representative for consumption. For information about creating your points of sale feed file, see [Points of Sale Feed](../pos-feed/pos-feed.md).
 
 After Microsoft successfully imports your data and is able to match your hotels with properties in Bing Maps, you may begin sending your hotel pricing and availability data. For information, see [Transaction Messages](../transaction-message/transaction-message.md). 
 
